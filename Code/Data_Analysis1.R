@@ -4,7 +4,7 @@ library(ggplot2)
 library(quantmod)
 
 # Set working directory
-setwd('/Users/rohitkumawat/Desktop/Jaishree_Thesis_MA')
+setwd('/Users/jaishree/Desktop/Thesis_MA')
 
 ####################### Exchange Rate Data Prep #####################
 # Load INR-USD data
