@@ -10,7 +10,7 @@ library(stats)
 library(lmtest)
 # Set working directory
 
-setwd('/Users/rohitkumawat/Desktop/Jaishree_Thesis_MA')
+setwd('/Users/jaishree/Desktop/Thesis_MA')
 
 
 # Read data
