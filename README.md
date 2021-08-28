@@ -1,4 +1,4 @@
-<img align="right" width="450" height="200" src="https://github.com/JaishreeJoshita/MA_Thesis/blob/75d5a43ae096c3d8b4176e50b8259fcb46917ff6/BHU%20logo%20img.jpg">
+<img align="right" width="650" height="200" src="https://github.com/JaishreeJoshita/MA_Thesis/blob/75d5a43ae096c3d8b4176e50b8259fcb46917ff6/BHU%20logo%20img.jpg">
 
 # Masters Project
 This is my project-oriented dissertation on **"An Econometric Analysis of the Impact of Exchange Rate Fluctuation on the Equity Market"**
